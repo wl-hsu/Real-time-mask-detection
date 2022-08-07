@@ -1,0 +1,5 @@
+Python detect_mask_count.py --source 0 --weights best.pt
+Python detect_mask_count.py --source ./target/long_target.mp4 --weights best.pt --conf 0.4
+
+
+Python detect_mask_count.py --source ./target/long_target.mp4 --weights best.pt --conf 0.4
