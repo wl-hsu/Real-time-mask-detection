@@ -1,5 +1,5 @@
 # Real-time-mask-detection
-This application can be deployed in a computer with a camera or used to analyze whether people are wearing the mask in the video. Also, this application not only detects people wearing the mask, but detects whether people are wearing it correctly and it can find out if the people use the hand or clothes to cover their face. Result and effect can refer to [final repot](https://github.com/wl-hsu/Real-time-mask-detection/blob/main/Final%20Report.pdf)
+This application can be deployed in a computer with a camera or used to analyze whether people are wearing the mask in the video. Also, this application not only detects people wearing the mask, but detects whether people are wearing it correctly and it can find out if the people use the hand or clothes to cover their face. Result and effect can refer to [final report](https://github.com/wl-hsu/Real-time-mask-detection/blob/main/Final%20Report.pdf)
 
 
 ## Getting Started
