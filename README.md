@@ -1,5 +1,5 @@
 # Real-time-mask-detection
-This application can be deployed in a computer with a camera or used to analyze whether people are wearing the mask in the video. Also, this application not only detects people wearing the mask, but detects whether people are wearing it correctly and it can find out if the people use the hand or clothes to cover their face. Result and effect can refer to [final repot][https://github.com/wl-hsu/Real-time-mask-detection/blob/main/Final%20Report.pdf]
+This application can be deployed in a computer with a camera or used to analyze whether people are wearing the mask in the video. Also, this application not only detects people wearing the mask, but detects whether people are wearing it correctly and it can find out if the people use the hand or clothes to cover their face. Result and effect can refer to [final repot](https://github.com/wl-hsu/Real-time-mask-detection/blob/main/Final%20Report.pdf)
 
 
 ## Getting Started
@@ -29,18 +29,18 @@ The analyzed video will be stored in ./runs/detect/expX
 
 ## Source
 ### Framework
-This application is based on [yolov5][https://github.com/ultralytics/yolov5]
+This application is based on [yolov5](https://github.com/ultralytics/yolov5)
 
 ### Data set
-[Face Mask Detection][https://www.kaggle.com/andrewmvd/face-mask-detection]
+[Face Mask Detection](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
-[WIDER Face dataset][http://shuoyang1213.me/WIDERFACE/]
+[WIDER Face dataset](http://shuoyang1213.me/WIDERFACE/)
 
-[MAFA][https://imsg.ac.cn/research/maskedface.html]
+[MAFA](https://imsg.ac.cn/research/maskedface.html)
 
-[RMFD][https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset]
+[RMFD](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 
 ### Labelling tool
-[labelImg][https://github.com/heartexlabs/labelImg]
+[labelImg](https://github.com/heartexlabs/labelImg)
 
 
